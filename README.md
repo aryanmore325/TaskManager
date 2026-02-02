@@ -21,7 +21,7 @@ tasks-backend/   # Node.js backend
 
 - Node.js (v18+ recommended)
 - npm
-- MongoDB
+- mongoDB
 
 ### Backend Setup
 
